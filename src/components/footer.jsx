@@ -7,7 +7,7 @@ const Footer = () => {
     <>
     <footer className="footer">
       <div>
-        <p>&copy; 2024 Hotels.ng Clone</p>
+        <p>&copy; 2024 made by Victor Matthew</p>
       </div>
       <div className="footer-links">
         <a href="#">Help</a>

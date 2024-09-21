@@ -2,8 +2,8 @@ import React from 'react';
 import './hotelList.css';
 
 const hotels = [
-  { name: "Hotel A", location: "Lagos", price: "₦10,000", img: "https://via.placeholder.com/200" },
-  { name: "Hotel B", location: "Abuja", price: "₦15,000", img: "https://via.placeholder.com/200" },
+  { name: "Shortlet A", location: "Lagos", price: "₦110,000", img: "https://via.placeholder.com/200" },
+  { name: "Shortlet B", location: "Abuja", price: "₦150,000", img: "https://via.placeholder.com/200" },
   // Add more hotels as needed
 ];
 
